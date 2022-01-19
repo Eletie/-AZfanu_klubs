@@ -1,4 +1,4 @@
-#Danils
+#Danils2
 print("kā iesākt")
 
 linoleja_cena = int(input("Ievadi linoleja cenu ")) #ievadīt linoleju cenu
@@ -10,4 +10,4 @@ def gridas_izmaksas():
   linoleja_izmaksas = telpas_lielums * linoleja_cena #aprēķina linoleja izmaksas
   print("Linoleja izmaksas ir ", str(linoleja_izmaksas), "eiro.")
 
-gridas_izmaksas() #ja c
+gridas_izmaksas() #ja cav
